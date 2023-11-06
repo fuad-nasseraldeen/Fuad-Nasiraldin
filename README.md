@@ -3,11 +3,10 @@
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/fuadnasseraldeen/">
-    <img src="https://img.shields.io/badge/https%3A%2F%2Fcodepen.io%2FFuad-Sami?logo=LinkedIn&logoColor=white&label=linkedin&labelColor=linkedin&color=blue&link=https://www.linkedin.com/in/fuadnasseraldeen"/>
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fuadnasseraldeen"  />
   </a>
   <a href="https://codepen.io/Fuad-Sami">
-    <img src="https://img.shields.io/badge/https%3A%2F%2Fcodepen.io%2FFuad-Sami?logo=codepen&logoColor=black&label=codepen&labelColor=codepen&color=blue&link=https%3A%2F%2Fcodepen.io%2FFuad-Sami"/>
+    <img src="https://img.shields.io/badge/CodePen-0077B5?style=for-the-badge&logo=CodePen&logoColor=white" alt="fuadnasseraldeen"  />
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="fuadnasseraldeen"/>
