@@ -2,7 +2,6 @@
 <img alt="Coding" width="400" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" />
 
   <div id="badges">
-    
   <a href="https://www.linkedin.com/in/fuadnasseraldeen/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="fuadnasseraldeen"  />
   </a>
@@ -11,6 +10,9 @@
   </a>
   <a href="https://portfolio-fuad-nasseraldeen.vercel.app/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=esri&logoColor=white" alt="fuadnasseraldeen" />
+  </a>
+    <a href="https://wa.me/972503955900" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white&color=#25D366" alt="fuadnasseraldeen"  />
   </a>
 </div>
 
