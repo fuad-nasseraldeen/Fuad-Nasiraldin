@@ -14,7 +14,7 @@
   <a href="https://wa.me/972503955900" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white&color=#25D366" alt="fuadnasseraldeen"  />
   </a>
-  <a href="fuad.nasseraldeen@gmail.com" target="_blank">
+  <a href="mailto:fuad.nasseraldeen@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="fuadnasseraldeen"  />
   </a>
 </div>
