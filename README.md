@@ -8,12 +8,12 @@
   <a href="https://codepen.io/Fuad-Sami">
     <img src="https://img.shields.io/badge/CodePen-0077B5?style=for-the-badge&logo=CodePen&logoColor=white" alt="fuadnasseraldeen"  />
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="fuadnasseraldeen"/>
+  <a href="https://portfolio-fuad-nasseraldeen.vercel.app/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=esri&logoColor=white" alt="fuadnasseraldeen" />
   </a>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=fuad-nasseraldeen&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=fuad-nasseraldeen&style=for-the-badge&color=blue" alt=""/>
 <h1 align="center">Hi 👋, I'm Fuad Nasser-Aldeen</h1>
 <h3 align="center">A passionate Software Engineer from Israel</h3>
 
