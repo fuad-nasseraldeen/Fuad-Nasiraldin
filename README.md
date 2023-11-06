@@ -1,24 +1,45 @@
 [![MasterHead](https://i.ibb.co/54Kkcn8/amdocs-office-memory.jpg)](https://portfolio-fuad-nasseraldeen.vercel.app/)
 <h1 align="center">Hi 👋, I'm Fuad Nasser-Aldeen</h1>
 <h3 align="center">A passionate Software Engineer from Israel</h3>
-<h5 align="left">I Am Driven To Play A Key Role In All Stages Of Software Development, From Initial Planning To Final Solution Delivery In The Digital World.</h3>
-<h5 align="left">My Main Objective Is To Enhance User Experiences By Leveraging My Expertise In Software Development.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<div id="header" align="center">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
+</div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/fuadnasseraldeen/">
+     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rishavchanda"  />
+  </a>
+  <a href="https://codepen.io/Fuad-Sami">
+    <img src="https://img.shields.io/badge/https%3A%2F%2Fcodepen.io%2FFuad-Sami?logo=codepen&logoColor=black&label=codepen&labelColor=codepen&color=blue&link=https%3A%2F%2Fcodepen.io%2FFuad-Sami"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=fuad-nasseraldeen&style=flat-square&color=blue" alt=""/>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
 
-- 🔭 I’m currently working on **<img align="right" width='100px' alt="Coding" width="400" src="https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/d3/29/ab/d329ab43-576b-eb75-e032-0be45f30c16d/source/512x512bb.jpg">**
-<img align="right" width='100px' alt="Coding" width="400" src="https://www.amdocs.com/sites/default/files/styles/coh_xx_small/public/2023-03/amdocs-logo-2x_0.png?itok=b3-Gn1nx">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fuad-nasseraldeen&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=fuad-nasseraldeen&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=fuad-nasseraldeen&show_icons=true" />
+</picture>
 
+
+- 🔭 I’m currently working on **Amdocs**
 - 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Android , MEARN**
 
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 📫 How to reach me **fuad.nasseraldeen@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
@@ -35,14 +56,12 @@
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rishavchanda&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuad-nasseraldeen&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fuad-nasseraldeen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavchanda&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuad-nasseraldeen&show_icons=true&locale=en&theme=tokyonight" alt="fuad-nasseraldeen" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
-..
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fuad-nasseraldeen&&theme=tokyonight" alt="fuad-nasseraldeen" /></p>
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
