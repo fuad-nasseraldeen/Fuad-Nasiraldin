@@ -11,14 +11,22 @@
   <a href="https://portfolio-fuad-nasseraldeen.vercel.app/" target="_blank">
     <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=esri&logoColor=white" alt="fuadnasseraldeen" />
   </a>
-    <a href="https://wa.me/972503955900" target="_blank">
+  <a href="https://wa.me/972503955900" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-0077B5?style=for-the-badge&logo=WhatsApp&logoColor=white&color=#25D366" alt="fuadnasseraldeen"  />
+  </a>
+  <a href="fuad.nasseraldeen@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="fuadnasseraldeen"  />
   </a>
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=fuad-nasseraldeen&style=for-the-badge&color=blue" alt=""/>
-<h1 align="center">Hi 👋, I'm Fuad Nasser-Aldeen</h1>
+
+<!-- <h1 align="center">Hi 👋, I'm Fuad Nasser-Aldeen</h1> -->
+
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Gumela&weight=500&size=21&pause=1000&color=0077B5&center=true&vCenter=true&random=false&lines=Hi+%F0%9F%91%8B%2C+I'm+Fuad+Nasser-Aldeen" alt="Typing SVG" /></a>
 <h3 align="center">I'm a self-taught passionate FrontEnd developer from Israel</h3>
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
