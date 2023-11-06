@@ -40,6 +40,7 @@
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
+- 💻 Writing Readable and Reusable code is my first priority.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks/LeetCode and read tech articles.
 
