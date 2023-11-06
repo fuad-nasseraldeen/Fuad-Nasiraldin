@@ -14,11 +14,15 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=fuad-nasseraldeen&style=for-the-badge&color=blue" alt=""/>
-<h1 align="center">Hi 👋, I'm Fuad Nasser-Aldeen</h1>
-<h3 align="center">A passionate Software Engineer from Israel</h3>
-
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazNvdzB2dDFxb211dHh2YTJnZmRwdjhyM3BmNnhtMHgydXdvZXIyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
 
 
