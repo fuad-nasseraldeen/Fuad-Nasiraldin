@@ -90,3 +90,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+## Important Note
+
+:warning: Starting from June 13, 2023, GitHub Actions will force actions to run on Node.js version 16 by default. If your workflows rely on Node.js 12, you may need to update them accordingly. For more information, please refer to the [GitHub Blog Post](https://github.blog/changelog/2023-06-13-github-actions-all-actions-will-run-on-node16-instead-of-node12-by-default/).
+
