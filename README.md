@@ -40,11 +40,11 @@
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
-- 💻 Writing Readable and Reusable code is my first priority.
+- 💻 Writing Readable and Reusable code is my Priority.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks/LeetCode and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fuad-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/fuad-nasseraldeen/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Fuad-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fuad-nasseraldeen/)
 
 ---
 
