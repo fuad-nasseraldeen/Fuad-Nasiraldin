@@ -79,7 +79,7 @@
 ### :fire: My Stats :
 
 <div>
-<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fuad-nasseraldeen&" />
+<img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=fuad-nasseraldeen" />
 <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=fuad-nasseraldeen" />
 <img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuad-nasseraldeen&layout=compact&langs_count=15" />
 </div>
